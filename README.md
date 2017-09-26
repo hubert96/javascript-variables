@@ -1,2 +1,2 @@
-# exercise8.6
+# JS variables
 just for learning respository
